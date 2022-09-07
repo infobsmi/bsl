@@ -19,3 +19,8 @@ Thanks for you interest.
 
 this license model just protect us from loose blood for cloud providers, like Amazon aws, azure and etc.
 
+
+
+# What is SAAS
+
+https://en.wikipedia.org/wiki/Software_as_a_service
