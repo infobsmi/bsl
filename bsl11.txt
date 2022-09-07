@@ -15,7 +15,9 @@ Change Date:          After release version + 3 years later
 
 Change License:       Apache License, Version 2.0
 
+For more detail about SAAS, you may visit:
 
+https://en.wikipedia.org/wiki/Software_as_a_service
 
 Notice
 
